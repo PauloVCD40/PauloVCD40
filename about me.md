@@ -2,7 +2,7 @@ INGLÊS
 
 - Hi, I’m @PauloVCD40
 - I’m interested  in learning and getting support in my projects
-- I’m currently learning Python, JavaScript and soon html and css
+- I’m currently learning Python and JavaScript
 - I’m looking to collaboratemainly in the development of new languages but I'm also interested in open source programs like linux
 - How to reach me e-mail: paulovcd40@gmail.com and instagram: paulovcd40
 
@@ -12,7 +12,7 @@ PORTUGUÊS
 
 - Olá, eu sou Paulo
 - Estou interessado em aprender e receber apoio em meus projetos
-- Atualmente estou aprendendo Python, JavaScript e em breve html e css
+- Atualmente estou aprendendo Python e JavaScript
 - email: paulovcd40@gmail.com e instagram: paulovcd40
 
 Comecei a programar com 12 anos quando queria fazer um jogo, descobri que podia fazer um usando python e comecei meu trabalho, descobri também que programar não era tão difícil quanto pensava e resolvi me aprofundar, então conheci o game maker onde fiz vários projetos que hoje estão perdidos. Eu realmente gosto de programar porque me dá uma sensação de liberdade e poder.
